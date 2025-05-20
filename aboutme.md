@@ -4,14 +4,19 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+My name is Olivia Burton, I am from Leeds, England, and I love anything related to health, data analysis and nutrition. Have a look at my background below!
 
 ### Education
 
-- Computer science degree at UdL (2019 - 2022)
-- Master in computer science at UdL (2022 - 2024)
-- PhD in RL applied to energy (2024 - present)
+- Master in Health Data Science, Universitat Rovira i Virgili, Spain (2024 - present)
+- Master in Nutrition & Metabolism, Universitat Rovira i Virgili, Spain (2023 - 2024)
+- Bachelors (Honours) in Nutrition, University of Leeds (2019 - 2022)
 
 ### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+- Research intern for NUTRISAM research group, Universitat Rovira i Virgili, Spain (2024 - present)
+
+### Languages
+- English: Fluent
+- Spanish: B2 level
+- Catalan: A1 level
+- Arabic (Moroccan dialect): A2 level
