@@ -107,19 +107,22 @@ navbar-var-length: false
 
 # Colours
 
-.navbar-custom {
-  background-color: #264653 !important;
+/* Force navbar background to blue and text to white */
+.navbar,
+.site-header {
+  background-color: #008AFF !important;
   color: #FFFFFF !important;
 }
 
-/* Ensure links in the navbar are white */
-.navbar-custom .nav-link,
-.navbar-custom .navbar-brand {
+/* Make sure links in navbar are also white */
+.navbar a,
+.site-header a {
   color: #FFFFFF !important;
 }
 
-/* Optional hover styling for navbar links */
-.navbar-custom .nav-link:hover {
+/* Optional: Add hover effect */
+.navbar a:hover,
+.site-header a:hover {
   color: #DDDDDD !important;
 }
 
