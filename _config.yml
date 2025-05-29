@@ -108,7 +108,7 @@ navbar-var-length: false
 # Colours
 
 .navbar-custom {
-  background-color: #003366 !important;
+  background-color: #264653 !important;
   color: #FFFFFF !important;
 }
 
