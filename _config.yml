@@ -107,21 +107,20 @@ navbar-var-length: false
 
 # Colours
 
-/* Navbar background changed to navy blue */
 .navbar-custom {
   background-color: #003366 !important;
   color: #FFFFFF !important;
 }
 
-/* Ensure navbar links and brand text are white */
+/* Ensure links in the navbar are white */
 .navbar-custom .nav-link,
 .navbar-custom .navbar-brand {
   color: #FFFFFF !important;
 }
 
-/* Optional: Slight gray hover effect */
+/* Optional hover styling for navbar links */
 .navbar-custom .nav-link:hover {
-  color: #CCCCCC !important;
+  color: #DDDDDD !important;
 }
 
 # Alternatively, the navbar, footer, and page background can be set to an image
