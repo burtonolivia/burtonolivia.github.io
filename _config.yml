@@ -105,25 +105,22 @@ navbar-var-length: false
 # --- Colours / background image --- #
 ######################################
 
-# Colours
-
-/* Force navbar background to blue and text to white */
-.navbar,
-.site-header {
-  background-color: #008AFF !important;
-  color: #FFFFFF !important;
+body {
+  background-color: #FFFFFF;
+  color: #000000;
 }
 
-/* Make sure links in navbar are also white */
-.navbar a,
-.site-header a {
-  color: #FFFFFF !important;
+.navbar {
+  background-color: #008AFF;
+  color: #FFFFFF;
 }
 
-/* Optional: Add hover effect */
-.navbar a:hover,
-.site-header a:hover {
-  color: #DDDDDD !important;
+.navbar a {
+  color: #FFFFFF;
+}
+
+.navbar a:hover {
+  color: #DDDDDD; /* Optional hover styling */
 }
 
 # Alternatively, the navbar, footer, and page background can be set to an image
