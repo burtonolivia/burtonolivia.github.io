@@ -19,15 +19,6 @@ navbar-links:
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/images/Portrait photo.jpg"
-avatar2: "/images/nutrigenomics.jpg"
-
-{% if page.show-avatar %}
-  <img src="/images/Portrait photo.jpg" alt="Main Avatar">
-{% endif %}
-
-{% if page.show-avatar2 %}
-  <img src="/images/nutrigenomics.jpg" alt="Secondary Avatar">
-{% endif %}
 
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
