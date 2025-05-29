@@ -2,7 +2,6 @@
 layout: page
 title: About me
 subtitle: A brief personal description
-show-avatar: true
 ---
 
 My name is Olivia Burton, I am from Leeds, England, but I am currently living in Reus, Spain. I love anything related to health, data analysis and nutrition. Have a look at my background below!
